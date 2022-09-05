@@ -1,0 +1,48 @@
+
+
+
+.container{
+    display: grid;
+    grid-template-columns: 2fr 2fr 2fr 2fr 2fr;
+    grid-template-rows: 500px;
+    gap: 5px;
+}
+
+.para1{
+    background-color: brown;
+    border: 1px solid black;
+    margin: 5px 5px 5px 10px;
+    padding: 10px;
+}
+
+.para2{
+    background-color: rebeccapurple;
+    border: 3px dotted orange;
+    margin: 10px 10px 5px 5px;
+    padding: 20px;
+}
+
+.para3{
+    background-color: green;
+    border: 10px double rgb(17, 9, 9);
+    margin: 15px 23px 13px 12px;
+    padding: 10px 10px 50px 25px;
+    
+}
+
+.para4{
+    background-color: aqua;
+    border: 25px dashed rgba(16, 9, 229,0.6);
+    margin: 10px 15px 10px 15px;
+    padding: 30px  25px 30px 25px;
+    
+}
+
+.para5{
+    background-color: bisque;
+    border: 25px groove black;
+    margin: 7px 3px 6px 3px;
+    padding: 20px 25px 20px 25px;
+    
+}
+
